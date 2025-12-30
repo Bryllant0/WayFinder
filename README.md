@@ -8,8 +8,7 @@ A data-driven tool helping French students make informed decisions about their h
 - Mizaan-Abbas Katchera
 - Nawfel Bouazza
 
-**Course:** Introduction to Python  
-**Program:** Master Data Science & Business Analytics  
+**Course:** Python  
 **School:** ESSEC Business School / CentraleSupélec
 
 ## Project Overview
